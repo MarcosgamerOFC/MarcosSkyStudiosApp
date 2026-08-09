@@ -46,5 +46,5 @@ A **MarcosSkyStudios** é um estúdio independente brasileiro que recusa a ganâ
 
 ## 🎵 Trilha Sonora
 
-* **Loading Theme:** *"Titan"* por Scott Buckley (scottbuckley.com.au)
+* Loading Theme: "Titan" por Scott Buckley (scottbuckley.com.au)
 * Licenciado sob [Creative Commons: By Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
