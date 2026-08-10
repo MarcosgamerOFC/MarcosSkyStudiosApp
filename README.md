@@ -1,3 +1,15 @@
+⚖️ Aviso Legal & Direitos Autorais (Disclaimer)
+Este projeto é uma obra de ficção interativa desenvolvida exclusivamente por e para fãs.
+
+Sem Fins Lucrativos: Este repositório é 100% gratuito, open-source e não possui qualquer forma de monetização ou comercialização.
+Propriedade Intelectual: A marca Rec Room, seus elementos visuais originais e conceitos correlatos pertencem à Rec Room Inc.
+
+Isenção de Vínculo: Este projeto não é oficial, não possui afiliação, patrocínio ou endosso da Rec Room Inc. ou de seus fundadores.
+
+Licença: Todo o conteúdo textual, roteiro e estrutura original desenvolvidos pela comunidade neste repositório estão protegidos sob a licença Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+---
+
 # 🌌 MarcosSkyStudios
 
 > ⚠️ **AVISO DE DESENVOLVIMENTO / DEVELOPMENT NOTICE**  
