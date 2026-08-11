@@ -1,3 +1,4 @@
+PT_BR:
 ⚖️ Aviso Legal & Direitos Autorais (Disclaimer)
 Este projeto é uma obra de ficção interativa desenvolvida exclusivamente por e para fãs.
 
@@ -7,6 +8,17 @@ Propriedade Intelectual: A marca Rec Room, seus elementos visuais originais e co
 Isenção de Vínculo: Este projeto não é oficial, não possui afiliação, patrocínio ou endosso da Rec Room Inc. ou de seus fundadores.
 
 Licença: Todo o conteúdo textual, roteiro e estrutura original desenvolvidos pela comunidade neste repositório estão protegidos sob a licença Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+---
+
+EN: USA
+⚖️ Legal Notice & Copyright (Disclaimer) This project is a work of interactive fiction developed exclusively by and for fans.
+
+Non-Profit: This repository is 100% free, open-source, and involves no form of monetization or commercialization. Intellectual Property: The Rec Room brand, its original visual elements, and related concepts belong to Rec Room Inc.
+
+No Affiliation: This project is unofficial and has no affiliation with, sponsorship from, or endorsement by Rec Room Inc. or its founders.
+
+License: All textual content, scripts, and original structures developed by the community in this repository are protected under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
 ---
 
